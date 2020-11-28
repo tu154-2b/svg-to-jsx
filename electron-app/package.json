@@ -29,7 +29,7 @@
     "@svgr/plugin-prettier": "^4.3.2",
     "@svgr/plugin-svgo": "^4.3.1",
     "copy-to-clipboard": "^3.2.0",
-    "electron": "^6.0.7",
+    "electron": "^7.2.4",
     "eslint-plugin-react": "^7.14.3",
     "prettier": "^1.18.2",
     "prism-react-renderer": "^0.1.7",
